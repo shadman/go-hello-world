@@ -24,3 +24,6 @@
 
 ### Install binary
 > $ go install
+
+## Reference
+https://gobyexample.com/hello-world
